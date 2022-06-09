@@ -41,15 +41,28 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ## For Termux
+
 apt update && apt upgrade
+
 pkg install ffmepg
+
 pkg install nodejs
+
 pkg install webp
+
 git clone https://github.com/Restaa/bot-md
+
 cd bot-md
+
 pkg install yarn
+
 yarn
 
+# # Run back ##
+
+cd  bot-md
+
+node index.js
 
 ## Edit file
 `./config.js`
