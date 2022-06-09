@@ -42,10 +42,13 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ## For Termux
 apt update && apt upgrade
-pkg install bash
+pkg install ffmepg
+pkg install nodejs
+pkg install webp
 git clone https://github.com/Restaa/bot-md
 cd bot-md
-bash install.sh
+pkg install yarn
+yarn
 
 
 ## Edit file
