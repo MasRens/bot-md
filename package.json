@@ -1,12 +1,12 @@
 {
-  "name": "bot-md",
-  "version": "2.0.5",
-  "description": "WhatsApp Using Lib Baileys Multi Device",
-  "main": "index.js",
-  "type": "commonjs",
-  "scripts": {
-    "start": "node index.js"
-  },
+ "name": "Fardan",
+ "description": "Whatsapp Using Lib Baileys Multi Device",
+ "version": "2.0.5",
+ "main": "index.js",
+ "type": "commonjs",
+ "scripts": {
+  "start": "node index.js"
+ },
   "keywords": [
     "termux",
     "whatsapp",
@@ -66,11 +66,11 @@
   },
   "devDependencies": {},
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Restaa/bot-md.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Restaa/bot-md/issues"
-  },
-  "homepage": "https://github.com/Restaa/bot-md#readme"
+  "type": "git",
+  "url": "git+https://github.com/ZackMans/ZackBotMans.git"
+ },
+ "bugs": {
+  "url": "https://github.com/ZackMans/ZackBotMans/issues"
+ },
+ "homepage": "https://github.com/ZackMans/ZackBotMans#readme"
 }
